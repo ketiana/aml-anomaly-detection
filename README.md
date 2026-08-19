@@ -36,4 +36,4 @@ The [IBM Transactions for Anti Money Laundering (AML)](https://www.kaggle.com/da
 
 ## 📎 Full Writeup
 
-Visuals, key findings, and full analysis are available at: 👉 [https://ketiana-portfolio.netlify.app/projects/aml-anomaly-detection/]
+Visuals, key findings, and full analysis are available at: 👉 [https://ketiana-portfolio.netlify.app/projects/aml-anomaly-detection/](https://ketiana-portfolio.netlify.app/projects/aml-anomaly-detection/)
